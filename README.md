@@ -19,4 +19,4 @@ HTML / CSS / JS / PHP / WordPress
 
 ##Design by
 
-noradriana
+<a href="https://noradriana.com" target="_blank">noradriana</a>
