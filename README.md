@@ -15,7 +15,7 @@ HTML / CSS / JS / PHP / WordPress
 
 ##Development by
 
-Marta Torre
+<a href="https://martatorre.dev" target="_blank">Marta Torre</a>
 
 ##Design by
 
